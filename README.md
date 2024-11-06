@@ -70,8 +70,8 @@ Submit two files:
 The following files are submitted for the completion of Project 4:
 
 1. **Results File**: A text file containing the results of the data analysis.  
-   [Download My_Results.txt](My_Results.txt)  
+   [Go to My_Results.txt](My_Results.txt)  
 
 3. **PySpark Code**: The Jupyter notebook containing the Spark code used for data analysis.  
-   [Download My_Spark.ipynb](My_Spark.ipynb)
+   [Go to My_Spark.ipynb](My_Spark.ipynb)
 
