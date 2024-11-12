@@ -1,8 +1,5 @@
 # Project 4: Big Data Analysis with PySpark on Weather Data
 
-**Due Date**: Nov 3, 11:59 PM  
-**Total Points**: 10
-
 ## Project Objective
 This project involves analyzing and extracting insights from the NCEI Global Surface Summary of Day dataset. The data will be processed using PySpark, Jupyter Notebook, and various data engineering and analytics techniques, providing hands-on experience with big data. Key tasks include handling and analyzing weather data from Cincinnati and Florida for years 2015-2024.
 
